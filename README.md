@@ -17,3 +17,4 @@ An agent playing our snake should receive no more information than a human playe
 
 ![image](https://user-images.githubusercontent.com/122884911/218313956-63ef6e65-310f-41cc-aefa-a396b726e85d.png)
 
+The neural network contains only one hidden layer, as well as a fully connected layer with the Adam optimizer and the MSE loss function.
